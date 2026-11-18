@@ -1,7 +1,6 @@
+## Infrastructure Scope and Isolation
 
- Infrastructure Scope and Isolation
-
-Project Environment
+## Project Environment
 
 The Linux Enterprise Infrastructure Lab is planned
 to run on the authorized Proxmox VE node `pve-3`.
